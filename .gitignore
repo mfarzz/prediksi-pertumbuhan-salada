@@ -1,9 +1,6 @@
 /dataTumbuhan
 /Excel penelitian
 EXCELL DATA (1).xlsx
-/salada/model_salada_all_data
-/salada/model_salada_sensor_data
-/pakcoy/model_pakcoy_all_data
-/pakcoy/model_pakcoy_sensor_data
-/semuaTumbuhan/model_all_data
-/semuaTumbuhan/model_all_sensor_data
+/salada/models
+/pakcoy/models
+/semuaTumbuhan/models
